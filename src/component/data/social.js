@@ -1,0 +1,27 @@
+export const Socialdata=[
+    {
+        platform:"Instagram",
+        link:'https://www.instagram.com/imvishal05?r=nametag',
+        icon:require('../../asset/icon/instagram.png')
+    },
+    {
+        platform:"Facebook",
+        link:'https://www.facebook.com/om.dubey.9235199',
+        icon:require('../../asset/icon/facebook.png')
+    },
+    {
+        platform:"github",
+        link:'https://github.com/omiiiiiii',
+        icon:require('../../asset/icon/github.png')
+    },
+    {
+        platform:"Linkedin",
+        link:'https://www.linkedin.com/in/om-prakash-dwivedi-20147a153',
+        icon:require('../../asset/icon/linkedin.png')
+    },
+    {
+        platform:"twitter",
+        link:'https://mobile.twitter.com/Ompraka86337469',
+        icon:require('../../asset/icon/twitter.png')
+    }
+]

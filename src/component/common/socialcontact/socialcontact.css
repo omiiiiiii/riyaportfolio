@@ -1,0 +1,18 @@
+.Scoial-contact{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.social-contact-icon{
+    padding: 6px;
+    cursor: pointer;
+    margin: 6px;
+}
+.social-icon{
+    height:60px;
+}
+@media only screen and (max-width:720px){
+    .social-icon{
+        height:40px;
+    }
+}
