@@ -12,8 +12,8 @@ export const Skilldata=[
                         icon:<i className="devicon-javascript-plain colored"></i>
             },
             {
-                        name:"TypeScript",
-                        icon:<i className="devicon-typescript-plain colored"></i>
+                        name:"Boottrap",
+                        icon:<i className="devicon-bootstrap-plain"></i>
             },
             {
                 name:"HTML5",
@@ -23,7 +23,7 @@ export const Skilldata=[
                 name:"CSS3",
                 icon:<i className="devicon-css3-plain colored"></i>
             }
-
+                    
         ]
        
     },

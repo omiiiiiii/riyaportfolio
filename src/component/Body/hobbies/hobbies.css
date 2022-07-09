@@ -1,0 +1,22 @@
+.hobby{
+  display: flex; 
+  flex-direction: column;
+}
+.hobby-card{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.hobby-conatiner{
+    display: flex;
+    flex-direction: row;
+}
+.icon-image{
+    height: 80px;
+    margin-left:20px ;
+
+}
+.hobby-name{
+    font-size: 18px;
+    margin-left:20px ;
+}

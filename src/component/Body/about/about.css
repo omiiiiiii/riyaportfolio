@@ -14,8 +14,11 @@
     font-size: 24px;
 }
 .about-info-name{
-    color: blue;
+    color: rgba(139, 62, 38, 0.763);
     font-size: 32px;
+}
+.info-other-content{
+    font-size: 12px;
 }
 @media only screen and (max-width:720px){
     .about-top{

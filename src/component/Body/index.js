@@ -2,6 +2,7 @@ import React from 'react'
 import About from './about'
 import './body.css'
 import Contact from './contact'
+import Hobbies from './hobbies'
 import Project from './projects'
 import Skills from './skills'
 import Work from './work'
@@ -21,9 +22,13 @@ const Body = () => {
         <section id='work'>
           <Work />
         </section>
+        <section id='hobbies'>
+          <Hobbies />
+        </section>
         <section id='contact'>
           <Contact />
         </section>
+       
        </div>
   )
 }

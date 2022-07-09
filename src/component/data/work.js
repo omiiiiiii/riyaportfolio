@@ -13,6 +13,6 @@ export const WorkData=[
         dateofjoining:"03-06-2019",
         dateEnd:"31-07-2019",
         companyLogo:"https://tse1.mm.bing.net/th?id=OIP.xcz7JGsK6ujXHTSjgIp4TgHaDM&pid=Api&rs=1&c=1&qlt=95&w=230&h=99",
-        work:'I am Working as a System Engineer Intern with Technology of Python taking Flask as a framework'
+        work:'I worked as a System Engineer Intern with Technology of Python taking Flask as a framework'
     }
 ]

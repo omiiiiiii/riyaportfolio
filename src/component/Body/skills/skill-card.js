@@ -5,7 +5,7 @@ function Skillcard({skill}) {
   return (
     <div className='skill-card'>
         <div className='skill-icon'>
-            {skill.icon}{console.log(skill.icon)}
+            {skill.icon}
         </div>
         <div className='skill-name'>
     {skill.name}
