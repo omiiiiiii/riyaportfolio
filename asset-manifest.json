@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/riyaportfolio/static/css/main.25af5475.css",
+    "main.js": "/riyaportfolio/static/js/main.6505482b.js",
+    "static/media/Resume.pdf": "/riyaportfolio/static/media/Resume.080ff7b81bc623026eee.pdf",
+    "static/media/instagram.png": "/riyaportfolio/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/woolweaving.png": "/riyaportfolio/static/media/woolweaving.b6e617bfe6a6f52f36cb.png",
+    "static/media/Sudoku.png": "/riyaportfolio/static/media/Sudoku.13fb01eb89ed9ed4b9fc.png",
+    "static/media/badminton.png": "/riyaportfolio/static/media/badminton.90277caf1ecb0b8e8f02.png",
+    "static/media/traveller.png": "/riyaportfolio/static/media/traveller.f8199be3bfe94c9419bc.png",
+    "static/media/readingBook.png": "/riyaportfolio/static/media/readingBook.82327ec0c0f947f6d22f.png",
+    "static/media/github.png": "/riyaportfolio/static/media/github.553c66159c5672f25df6.png",
+    "static/media/headphones.png": "/riyaportfolio/static/media/headphones.91e23bd8d09df03a97d2.png",
+    "static/media/Coding.png": "/riyaportfolio/static/media/Coding.3889246813c093b41348.png",
+    "static/media/linkedin.png": "/riyaportfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/riyaportfolio/index.html",
+    "main.25af5475.css.map": "/riyaportfolio/static/css/main.25af5475.css.map",
+    "main.6505482b.js.map": "/riyaportfolio/static/js/main.6505482b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25af5475.css",
+    "static/js/main.6505482b.js"
+  ]
+}
