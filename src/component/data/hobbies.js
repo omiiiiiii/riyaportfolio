@@ -1,15 +1,15 @@
 export const Hobby=[
     {
-        name:"Cricket",
-        icon:require('../../asset/hobby/cricket.png')
+        name:"Reading Book",
+        icon:require('../../asset/hobby/readingBook.png')
+    },
+    {
+        name:"Wool weaving",
+        icon:require('../../asset/hobby/woolweaving.png')
     },
     {
         name:"Badminton",
         icon:require('../../asset/hobby/badminton.png')
-    },
-    {
-        name:"Reading Book",
-        icon:require('../../asset/hobby/readingBook.png')
     },
     {
         name:"Traveller",

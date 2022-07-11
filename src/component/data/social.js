@@ -1,27 +1,23 @@
 export const Socialdata=[
     {
         platform:"Instagram",
-        link:'https://www.instagram.com/imvishal05?r=nametag',
+        link:'https://www.instagram.com/riyabavkar13/',
         icon:require('../../asset/icon/instagram.png')
     },
     {
         platform:"Facebook",
-        link:'https://www.facebook.com/om.dubey.9235199',
+        link:'https://www.facebook.com/riya.bavkar/',
         icon:require('../../asset/icon/facebook.png')
     },
     {
         platform:"github",
-        link:'https://github.com/omiiiiiii',
+        link:'https://github.com/Riya1352',
         icon:require('../../asset/icon/github.png')
     },
     {
         platform:"Linkedin",
-        link:'https://www.linkedin.com/in/om-prakash-dwivedi-20147a153',
+        link:'https://www.linkedin.com/in/riya-bavkar-41b39b1bb/',
         icon:require('../../asset/icon/linkedin.png')
-    },
-    {
-        platform:"twitter",
-        link:'https://mobile.twitter.com/Ompraka86337469',
-        icon:require('../../asset/icon/twitter.png')
     }
+    
 ]
